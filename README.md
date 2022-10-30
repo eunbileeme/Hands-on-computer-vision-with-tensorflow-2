@@ -1,3 +1,8 @@
+# 소개
+## [깡통]에서 세미나로 진행한 두 번째 원서입니다.
+- 학습 시 사용했던 파일은 위와 같으며, 버전 오류 발생 시 수정하여 재업로드 하겠습니다.
+- 모든 저작권은 원작자에게 있습니다.
+
 ## $5 Tech Unlocked 2021!
 [Buy and download this Book for only $5 on PacktPub.com](https://www.packtpub.com/product/hands-on-computer-vision-with-tensorflow-2/9781788830645)
 -----
